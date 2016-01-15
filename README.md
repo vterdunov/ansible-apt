@@ -1,5 +1,7 @@
 apt
 =========
+[![Build Status](https://travis-ci.org/vterdunov/ansible-apt.svg?branch=master)](https://travis-ci.org/vterdunov/ansible-apt)
+
 Эта роль устанавливает пакеты с помощью apt.
 
 Requirements
