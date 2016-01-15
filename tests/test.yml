@@ -2,6 +2,6 @@
 - hosts: localhost
   remote_user: root
   roles:
-    - ansible-apt
+    - role: ansible-apt
       apt_packages:
         - mc
